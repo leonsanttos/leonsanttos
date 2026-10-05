@@ -43,14 +43,6 @@ Tenho contato com **JavaScript, Python, SQL, Git/GitHub, Docker, Linux e Windows
 
 <img src="https://streak-stats.demolab.com?user=leonsanttos&hide_border=true&background=F5F0E8&ring=9B8062&fire=B47A55&currStreakLabel=4A4036&sideLabels=74685B&currStreakNum=4A4036&sideNums=4A4036&dates=8A7B6B" alt="Sequência de contribuições no GitHub">
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leonsanttos&bg_color=F5F0E8&color=74685B&line=9B8062&point=B47A55&area=true&area_color=DCCBB5&hide_border=true" width="95%" alt="Gráfico de atividade no GitHub">
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=leonsanttos&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=12" alt="Troféus do GitHub">
-
 </div>
 
 ### Snake de contribuições
