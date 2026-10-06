@@ -31,7 +31,7 @@ Tenho contato com **JavaScript, Python, SQL, Git/GitHub, Docker, Linux e Windows
 <img src="https://img.shields.io/badge/Active%20Directory-F5F0E8?style=for-the-badge&logoColor=4A4036" alt="Active Directory">
 
 </div>
-
+inicio
 ### GitHub
 
 <div align="center">
@@ -44,7 +44,7 @@ Tenho contato com **JavaScript, Python, SQL, Git/GitHub, Docker, Linux e Windows
 <img src="https://streak-stats.demolab.com?user=leonsanttos&hide_border=true&background=F5F0E8&ring=9B8062&fire=B47A55&currStreakLabel=4A4036&sideLabels=74685B&currStreakNum=4A4036&sideNums=4A4036&dates=8A7B6B" alt="Sequência de contribuições no GitHub">
 
 </div>
-
+fim
 ### Snake de contribuições
 
 <!-- Esta imagem precisa de uma GitHub Action para ser gerada no branch output do repositório. -->
