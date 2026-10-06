@@ -31,20 +31,7 @@ Tenho contato com **JavaScript, Python, SQL, Git/GitHub, Docker, Linux e Windows
 <img src="https://img.shields.io/badge/Active%20Directory-F5F0E8?style=for-the-badge&logoColor=4A4036" alt="Active Directory">
 
 </div>
-inicio
-### GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leonsanttos&show_icons=true&include_all_commits=true&hide_border=true&bg_color=F5F0E8&title_color=4A4036&text_color=74685B&icon_color=9B8062" alt="Estatísticas do GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsanttos&layout=compact&hide_border=true&bg_color=F5F0E8&title_color=4A4036&text_color=74685B" alt="Linguagens mais usadas">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=leonsanttos&hide_border=true&background=F5F0E8&ring=9B8062&fire=B47A55&currStreakLabel=4A4036&sideLabels=74685B&currStreakNum=4A4036&sideNums=4A4036&dates=8A7B6B" alt="Sequência de contribuições no GitHub">
-
-</div>
-fim
 ### Snake de contribuições
 
 <!-- Esta imagem precisa de uma GitHub Action para ser gerada no branch output do repositório. -->
